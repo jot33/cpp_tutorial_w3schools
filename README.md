@@ -10,17 +10,18 @@ https://www.w3schools.com/cpp/cpp_getstarted.asp
 
 ## C++ Tutorial
 
-- [ ] C++ HOME
-- [ ] C++ Intro
-- [ ] C++ Get Started
-- [ ] C++ Syntax
-- [ ] C++ Output
-- [ ] C++ Comments
-- [ ] C++ Variables
-- [ ] C++ User Input
-- [ ] C++ Data Types
-- [ ] C++ Operators
-- [ ] C++ Strings
+- [X] C++ HOME
+- [X] C++ Intro
+- [X] C++ Get Started
+    - Followed this tutorial to get setup in vscode: https://code.visualstudio.com/docs/languages/cpp
+- [x] C++ Syntax
+- [x] C++ Output
+- [x] C++ Comments
+- [x] C++ Variables
+- [x] C++ User Input
+- [x] C++ Data Types
+- [x] C++ Operators
+- [x] C++ Strings
 - [ ] C++ Math
 - [ ] C++ Booleans
 - [ ] C++ Conditions
