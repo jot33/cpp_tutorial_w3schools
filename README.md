@@ -22,21 +22,21 @@ https://www.w3schools.com/cpp/cpp_getstarted.asp
 - [x] C++ Data Types
 - [x] C++ Operators
 - [x] C++ Strings
-- [ ] C++ Math
-- [ ] C++ Booleans
-- [ ] C++ Conditions
-- [ ] C++ Switch
-- [ ] C++ While Loop
-- [ ] C++ For Loop
-- [ ] C++ Break/Continue
-- [ ] C++ Arrays
-- [ ] C++ Structures
-- [ ] C++ References
-- [ ] C++ Pointers
+- [x] C++ Math
+- [x] C++ Booleans
+- [x] C++ Conditions
+- [x] C++ Switch
+- [x] C++ While Loop
+- [x] C++ For Loop
+- [x] C++ Break/Continue
+- [x] C++ Arrays
+- [x] C++ Structures
+- [x] C++ References
+- [x] C++ Pointers
 
 ## C++ Functions
 
-- [ ] C++ Functions
+- [x] C++ Functions
 - [ ] C++ Function Parameters
 - [ ] C++ Function Overloading
 - [ ] C++ Recursion
