@@ -37,31 +37,19 @@ https://www.w3schools.com/cpp/cpp_getstarted.asp
 ## C++ Functions
 
 - [x] C++ Functions
-- [ ] C++ Function Parameters
-- [ ] C++ Function Overloading
-- [ ] C++ Recursion
+- [x] C++ Function Parameters
+- [x] C++ Function Overloading
+- [x] C++ Recursion
 
 ## C++ Classes
 
-- [ ] C++ OOP
-- [ ] C++ Classes/Objects
-- [ ] C++ Class Methods
-- [ ] C++ Constructors
-- [ ] C++ Access Specifiers
-- [ ] C++ Encapsulation
-- [ ] C++ Inheritance
-- [ ] C++ Polymorphism
-- [ ] C++ Files
-- [ ] C++ Exceptions
-
-## C++ How To
-
-- [ ] Add Two Numbers
-
-## C++ Examples
-
-- [ ] C++ Examples
-- [ ] C++ Compiler
-- [ ] C++ Exercises
-- [ ] C++ Quiz
-- [ ] C++ Certificate
+- [x] C++ OOP
+- [x] C++ Classes/Objects
+- [x] C++ Class Methods
+- [x] C++ Constructors
+- [x] C++ Access Specifiers
+- [x] C++ Encapsulation
+- [x] C++ Inheritance
+- [x] C++ Polymorphism
+- [x] C++ Files
+- [x] C++ Exceptions
